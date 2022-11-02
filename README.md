@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey! Nice to see you👋👩🏼‍💻
+
+I'm Maja, Front-End Developer from Poland currently living in Oslo, Norway.
+
+You can reach me here: maja.gipp21@gmail.com
 
 <!--
 **maja-gipp/maja-gipp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
