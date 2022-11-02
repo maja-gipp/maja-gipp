@@ -19,6 +19,7 @@ And also here are the things that I code with:
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+<img alt="jQuery" src="https://img.shields.io/badge/-jQuery-F7B93E?style=flat-square&logo=jquery&logoColor=white" />
   </p>
 <!--
 **maja-gipp/maja-gipp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
