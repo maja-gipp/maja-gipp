@@ -15,7 +15,6 @@ And also here are the things that I code with:
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-<img alt="jQuery" src="https://img.shields.io/badge/-jQuery-F7DF1E?style=flat-square&logo=jquery&logoColor=white" />
 <img alt="Material--UI" src="https://img.shields.io/badge/-Material--UI-007ACC?style=flat-square&logo=material--ui&logoColor=white" />
 <img alt="HTML" src="https://img.shields.io/badge/-HTML-43853d?style=flat-square&logo=html&logoColor=white" />
 <img alt="CSS" src="https://img.shields.io/badge/-CSS-764ABC?style=flat-square&logo=css&logoColor=white" />
