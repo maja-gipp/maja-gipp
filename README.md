@@ -6,6 +6,10 @@ You can reach me here:
 • maja.gipp21@gmail.com
 • https://www.linkedin.com/in/maja-gipp-68a4a9233/
 
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <!--
 **maja-gipp/maja-gipp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
