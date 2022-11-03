@@ -1,4 +1,4 @@
-### Hey! Nice to see you👋👩🏼‍💻
+### Hey! Nice to see you👩🏼‍💻
 
 I'm Maja, Front-End Developer from Poland currently living in Oslo, Norway.
 
